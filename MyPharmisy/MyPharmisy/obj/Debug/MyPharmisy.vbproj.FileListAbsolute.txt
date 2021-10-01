@@ -1,0 +1,32 @@
+c:\users\user\documents\visual studio 2013\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.Form2.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\bin\Debug\newdb.mdf
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\bin\Debug\newdb_log.ldf
+C:\Users\User\Documents\Visual Studio 2013\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.vbprojResolveAssemblyReference.cache
+F:\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.exe.config
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.exe
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.xml
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.pdb
+F:\Projects\MyPharmisy\MyPharmisy\bin\Debug\newdb.mdf
+F:\Projects\MyPharmisy\MyPharmisy\bin\Debug\newdb_log.ldf
+F:\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.exe
+F:\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.pdb
+F:\Projects\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.xml
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.vbprojResolveAssemblyReference.cache
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.Form1.resources
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.Form2.resources
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.Resources.resources
+F:\Projects\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.vbproj.GenerateResource.Cache
+C:\Users\ASMA\Documents\Proj\MyPharmisy\MyPharmisy\bin\Debug\MyPharmisy.exe.config
+C:\Users\ASMA\Documents\Proj\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.exe
+C:\Users\ASMA\Documents\Proj\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.xml
+C:\Users\ASMA\Documents\Proj\MyPharmisy\MyPharmisy\obj\Debug\MyPharmisy.pdb
